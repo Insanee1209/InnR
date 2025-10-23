@@ -9,7 +9,9 @@ namespace TestLab
             
             Console.WriteLine("Hello, World!");
 
-            
+            Console.WriteLine("Hello, HiHi !");
+
+
             string name = "John";
             int age = 25;
 
@@ -17,26 +19,11 @@ namespace TestLab
             Console.WriteLine($"ชื่อ: {name}");
             Console.WriteLine($"อายุ: {age}");
 
-            // เรียกใช้ method
-            SayHello("Alice");
-
-            // คำนวณ
-            int result = Add(10, 20);
-            Console.WriteLine($"ผลบวก: {result}");
+    
 
             // รอให้กด Enter ก่อนปิด
             Console.ReadLine();
         }
 
-        // Method แยก
-        static void SayHello(string name)
-        {
-            Console.WriteLine($"สวัสดี {name}!");
-        }
-
-        static int Add(int a, int b)
-        {
-            return a + b;
-        }
     }
 }
