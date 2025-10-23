@@ -10,10 +10,10 @@ namespace TestLab
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Insaniee!");
 
-            Console.WriteLine("Hello, HiHi !");
+        
 
 
-            string name = "fianee";
+            string name = "fianee Rattanawongsawat";
             int age = 25;
 
             // แสดงผล
