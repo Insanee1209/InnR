@@ -13,7 +13,7 @@ namespace TestLab
             Console.WriteLine("Hello, HiHi !");
 
 
-            string name = "John";
+            string name = "fianee";
             int age = 25;
 
             // แสดงผล
