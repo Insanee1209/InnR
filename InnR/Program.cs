@@ -8,6 +8,7 @@ namespace TestLab
         {
             
             Console.WriteLine("Hello, World!");
+            Console.WriteLine("Insaniee!");
 
             
             string name = "John";
